@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "reg_query"
-version = "0.1.0"
+version = "0.1.1"
 description = "`reg_query` is a Python library for querying the Windows Registry to find specified values and keys efficiently."
 authors = ["th yoo <taihyungyoo@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/th-yoo/reg_query"
-keywords = ["regisry", "win32"]
+keywords = ["registry", "win32"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
